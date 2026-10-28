@@ -84,3 +84,5 @@ Karena NIM berfungsi sebagai identitas unik untuk membedakan mahasiswa.
 10. Apa perintah Git untuk mengirim commit ke GitHub?
 
 Menggunakan perintah "git push".
+
+Tugas ini dibuat untuk memenuhi praktikum Algoritma dan Pemrograman Pertemuan 11.
